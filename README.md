@@ -1,6 +1,6 @@
 # les-private-telegram-wappsandroid
 
-les-private-telegram-wappsandroid
+Les Pemrograman Android Basis Web (WAPPSANDROID), 16Pertemuan, Hanya 300rb. 
 
 Yang berminat, silahkan inbox saya..
 
